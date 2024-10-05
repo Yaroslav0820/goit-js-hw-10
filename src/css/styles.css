@@ -1,0 +1,23 @@
+/**
+  |============================
+  | include css partials with
+  | default @import url()
+  |============================
+*/
+/* Common styles */
+@import url('./1-timer.css');
+@import url('./2-snackbar.css');
+@import url('./base.css');
+@import url('./reset.css');
+
+
+@import url('izitoast/dist/css/iziToast.min.css');
+@import url('flatpickr/dist/flatpickr.min.css');
+
+
+
+
+
+
+
+
